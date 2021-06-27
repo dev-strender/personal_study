@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Personal Study
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+personal study log powered by stastic.
